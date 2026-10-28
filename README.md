@@ -4,7 +4,6 @@
 Pleximus AI is an innovative, interactive, and voice-enabled **AI Agent Workspace** designed to showcase advanced tool-calling and cognitive routing. The backend is built entirely with Python using only the **standard library** (for the web server and logical routing) and **`requests`** (for API calls), ensuring zero-configuration compatibility on lab machines. The frontend is a beautiful, glassmorphic single-page dashboard featuring real-time state tracking and voice interaction.
 
 
-
 ## 🚀 Key Features (Innovative & Unique)
 
 1. **Voice Mode (Hands-Free Control)**:
